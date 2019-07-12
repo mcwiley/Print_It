@@ -26,7 +26,7 @@ namespace Print_It
         {
             try
             {
-                streamToPrint = new StreamReader
+                streamToPrint  = new StreamReader
                    ("C:\\Users\\m_c_w\\Desktop\\TrudyParris.txt");
                 try
                 {
